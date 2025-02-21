@@ -1,3 +1,8 @@
+Code review system project built in Next.js
+
+Missions:
+Auth
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
